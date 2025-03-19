@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    int a = 5 , 7H;  // Invalid identifier
+    /* assign value */
+    char b = 'x';
+    /* return value */
+    return a + b;
+}
